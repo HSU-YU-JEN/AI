@@ -21,4 +21,4 @@ Hoping to help anyone interested in this "Super and Crazy AI".
 
 我们将功率谱密度函数的傅里叶变换记为 $S_x(\omega)$，则以下积分表示信号 $x(t)$ 在频率 $\omega$ 处的能量：
 
-$$\int_{-\infty}^{\infty} S_x(\omega) d\omega$$
+$$1/2*pi(\int_{-\infty}^{\infty} S_x(\omega) d\omega)$$
